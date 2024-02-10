@@ -9,3 +9,4 @@ These are the Azure services used:
 - Azure Key Vault : to secure and control the app
 - Azure AD B2C : to manage authentification
 
+https://github.com/daadaamed/Azure-react-nest-social-media/assets/77280622/a8710ad0-8921-4e8a-a145-a87ed118f8f0
